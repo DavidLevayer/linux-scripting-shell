@@ -5,4 +5,4 @@ This project contains simple code snipplets and useful information about Linux s
 ## Table of content
 * Variables
 * Loops
-* Common pitfalls
+* [Common pitfalls](common-pitfalls.md)
