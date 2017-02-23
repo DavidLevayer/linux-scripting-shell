@@ -21,13 +21,13 @@ length=${#var}
 
 These variables are not defined in the current process/script, but are received from the parent processes. They can be accessed the same way classic variables are accessed.
 
-## useful variables
+* useful variables
 ```bash
 # Get current shell
 echo $SHELL
 ```
 
-## Useful commands
+* Useful commands
 ```bash
 # Get environment variables available for specific process
 # Replace '\0' with '\n' for better readability
