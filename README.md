@@ -9,5 +9,6 @@ This project contains simple code snipplets and useful information about Linux s
 * [Variables](variable.md)
   * [Basics](variable.md#basics)
   * [Environment variables](variable.md#environment-variables)
+  * [Math calculations](variable.md#math-calculations)
 * Loops
 * [Common pitfalls](common-pitfalls.md)
