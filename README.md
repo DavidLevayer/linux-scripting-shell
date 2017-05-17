@@ -11,7 +11,8 @@ This project contains simple code snipplets and useful information about Linux s
   * [Basics](variable.md#basics)
   * [Environment variables](variable.md#environment-variables)
   * [Math calculations](variable.md#math-calculations)
-  * Arrays
+  * [Arrays](variable.md#arrays)
+  * [Dates](variable.md#dates)
 * Loops
 * [Code snipplets](snipplet.md)
 * [Common pitfalls](common-pitfalls.md)
