@@ -57,3 +57,35 @@ echo "obase=2;$x" | bc # Switch to base 2; print '100'
 echo "sqrt($x)" | bc # print '2'
 echo "$x^2" | bc # print '16'
 ```
+
+## Arrays
+
+TODO
+
+## Dates
+
+```bash
+# Print current date
+date
+
+# Print epoch (in seconds)
+date +%s
+
+# Print formatted date
+date "+%d %B %Y"
+```
+
+Date forma string:
+
+| Date     | Format | Example       |
+|----------|--------|---------------|
+| Weekday  | %a, %A | Sat, Saturday |
+| Month    | %b, %B | Nov, November |
+| Day      | %d     | 31            |
+| mm/dd/yy | %D     | 10/18/17      |
+| Year     | %y, %Y | 17, 2017      |
+| Hour     | %H     | 10            |
+| Minute   | %M     | 33            |
+| Second   | %S     | 19            |
+| Epoch    | %s     | 1290051479    |
+
